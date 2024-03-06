@@ -43,6 +43,7 @@ http {
                 proxy_pass http://127.0.0.1:3000; # Change 3000 to your port
         }
     }
+}
 ```
 Save and exit
 ```sh
