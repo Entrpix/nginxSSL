@@ -1,4 +1,4 @@
-# EasySSL
+# nginxSSL
 Easy SSL w/Nginx
 
 ## Instructions
