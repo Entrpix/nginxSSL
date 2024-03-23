@@ -49,6 +49,6 @@ Save and exit
 ```sh
 sudo systemctl reload nginx
 sudo ufw allow 'Nginx Full'
-sudo ufw delete allow 'Nginx HTTP'
+sudo ufw delete 'Nginx HTTP'
 sudo certbot --nginx -d subdomain.domain.tld
 ```
